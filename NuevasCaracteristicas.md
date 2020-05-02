@@ -19,7 +19,7 @@ Se busca como satisfacer a los clientes con el producto avorguesa a travez de nu
 
 ## Caracteristica 5 
 ### Pedidos para llevar
-> Si se encuentra en la central damos prioridad a los que hacen pedidos para llevar.
+> No quere pagar por el pedido a domicilio??, no se preocupo desde la centaral se realizan pedidos inmediatos para llevar
 
 ## Caracteristica 6
 ### Buenos combos
