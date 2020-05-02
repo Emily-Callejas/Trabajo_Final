@@ -24,3 +24,7 @@ Se busca como satisfacer a los clientes con el producto avorguesa a travez de nu
 ## Caracteristica 6
 ### Buenos combos
 > Habra combos de toda clase para cata tipo de cliente en Michigan.
+
+## Caracteristica 7
+### Calidad en la comida
+> Se garantiza la calidad de comida en cantidad y estado.
