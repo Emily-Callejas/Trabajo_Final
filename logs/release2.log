@@ -1,0 +1,135 @@
+commit e52be05cc530ff97eb45fb9af02f0b4ea2a25d24
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 03:29:49 2020 -0400
+
+    FIXED caracteristica 1 que pertenece al release 2
+
+commit 6a52f910006cc75dc940fb3ac5eca8aedf31f07d
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 03:23:26 2020 -0400
+
+    Commit de las caracteristicas 8, 9, 10, release 2
+
+commit 9cada35c4ad7725fa149866da14a13ffedbdcbc2
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 03:12:50 2020 -0400
+
+    Commit de la caracteristica 7, release 2
+
+commit 9615d64b3362d84f5d71cb73540ad1c5ba7bcbf5
+Merge: d16517f 3e2b38b
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 03:05:41 2020 -0400
+
+    Fixed
+
+commit 3e2b38bd660125d3264299336d22581c18f8910b
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 02:57:07 2020 -0400
+
+    FIXED caracteristica 5 que pertenece al release 2
+
+commit d16517f27917493ada5cc3d5812b2f9bdfe7ec7f
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 02:48:59 2020 -0400
+
+     Commit de la Caracteristica 6, release 2
+
+commit 6691587b3a4927ea81b525ec86e1f575637ab5e8
+Merge: ab1e8a2 f931f3a
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 02:41:09 2020 -0400
+
+    Merge branch 'feature2' into develop
+
+commit ab1e8a27c93a773a3874252f5415ec050e0b518c
+Merge: 4864378 9252482
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 02:27:53 2020 -0400
+
+    Merge branch 'hotfixes' into develop
+
+commit 9252482b0d845216f299f77a44f6372a7521e8fd
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 02:22:58 2020 -0400
+
+    FIXED caracteristica 5, que pertenece al release 1
+
+commit f931f3abaf323cc5db73de3329d7eac64bcc83f4
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 02:10:49 2020 -0400
+
+    Commit de las caracteristicas 2, 3, 4, 5, para el release 2
+
+commit b90130248f6cd185b3eb82e76052e638aa7e7bc1
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 01:37:37 2020 -0400
+
+    Commit de la caracteristica 1, release 2
+
+commit 4864378bed021dc7d21f4ae10b3b3e5c19570a74
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 01:25:13 2020 -0400
+
+     Commit nuevas caracteristicas, release 2
+
+commit 5c69cdc909f32c8a0e257211fdf6b47a62712e59
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 01:06:17 2020 -0400
+
+     Nuevas caracteristicas release 2
+
+commit 7a73a928f2266da790243ce5fbfede6cf06d52a7
+Merge: cd0bfde fc3c073
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Sat May 2 00:11:48 2020 -0400
+
+    Merge branch 'feature1' into develop
+
+commit cd0bfdef55c5089ebfbeb89477a9331f1644c05b
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Fri May 1 23:45:35 2020 -0400
+
+    Commit de arreglo en la Caracteristica 1, release 1
+
+commit fc3c073d724b46a6d1c400ccfedbe97849983e40
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Fri May 1 23:41:59 2020 -0400
+
+    Commit de la caracteristica 5, release 1
+
+commit a91fb6fe26b58123db84fa8cdb535a0ee81aeb31
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Fri May 1 23:38:09 2020 -0400
+
+    Commit de la caracteristica 4, release1
+
+commit c0b141012ac2a02e090491627c11e0f1d393597b
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Fri May 1 23:32:11 2020 -0400
+
+    Commit de la caracteristica 3, release 1
+
+commit 61e77fe11890e74c6672fd9550ab9b669539b23d
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Fri May 1 23:27:43 2020 -0400
+
+    Comit caracteristica 2, release 1
+
+commit 872f859b26e57d8a166dc48b8fb86f14e921bb4b
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Fri May 1 23:20:24 2020 -0400
+
+    Nuevas Caracteristicas para el release1
+
+commit 5fdf60d17d1af5a7b7c4ba569ba352c763e52d19
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Fri May 1 23:11:14 2020 -0400
+
+    Commit de la caracteristica 1, release 1
+
+commit 009bb503de07a42c97f0a2c291552547a2242216
+Author: Emily Callejas Torrico <emilycallejastorrico@gmail.com>
+Date:   Fri May 1 22:08:59 2020 -0400
+
+    Iniciamos el archivo
