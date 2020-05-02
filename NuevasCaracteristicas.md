@@ -4,7 +4,7 @@ Se busca como satisfacer a los clientes con el producto avorguesa a travez de nu
 
 ## Caracteristica 1
 ### Atencion 24h
-> Nos comprometemos con la atencion las 24 horas del dia.
+> Nos comprometemos con la atencion las 24 horas del dia, con la exepcion de los fines de semana.
 
 ## Caracteristica 2
 ### Pedidos a Domicilio
