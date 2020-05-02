@@ -20,3 +20,7 @@ Se busca como satisfacer a los clientes con el producto avorguesa a travez de nu
 ## Caracteristica 5 
 ### Pedidos para llevar
 > Si se encuentra en la central damos prioridad a los que hacen pedidos para llevar.
+
+## Caracteristica 6
+### Buenos combos
+> Habra combos de toda clase para cata tipo de cliente en Michigan.
