@@ -3,8 +3,8 @@
 Se busca como satisfacer a los clientes con el producto avorguesa a travez de nuestra app de pedidos.
 
 ## Caracteristica 1
-### Precios accecibles
-> Nuestros precios son accesibles para nuestro cliente
+### Atencion 24h
+> Nos comprometemos con la atencion las 24 horas del dia.
 
 ## Caracteristica 2
 ### Pedidos a Domicilio
@@ -28,3 +28,16 @@ Se busca como satisfacer a los clientes con el producto avorguesa a travez de nu
 ## Caracteristica 7
 ### Calidad en la comida
 > Se garantiza la calidad de comida en cantidad y estado.
+
+## Caracteristca 8
+### Dias 2x1
+>Nuestra app mostara que dias se dara el combo 2x1
+
+## Caracteristca 9 
+### Dias de fechas especiales 
+> Quieres celebrara un cumpleaño?? No te preocupes, te ofrecemos el mejor servicio gratuito!!!!
+
+## Caracteristica 10
+### Precios accecibles
+> Nuestros precios son accesibles para nuestro cliente!!!
+
